@@ -1,445 +1,530 @@
-lsblk
-pwd
-mkdir repogit
-cd repogit/
-git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
-git clone ○ UTNFRA_SO_1P2C_2024_<Tu-Apellido>
-git clone ○ UTNFRA_SO_1P2C_2024_Galante
-git clone UTNFRA_SO_1P2C_2024_Galante
-git clone https://github.com/juangalante0/UTNFRA_SO_1P2C_2024_Galante.git
-ls
-./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
-~/.bashrc && history -a
-source ~/.bashrc && history -a
-cd UTNFRA_SO_1P2C_2024_Galante/
-ls
-cd RTA_SCRIPT_Examen_20241010/
-ls
-ls -l
-cd ..
-mkdir -p /Examenes-UTN{alumno_{1..3}/parcial{1..3},profesores}
-sudo mkdir -p /Examenes-UTN{alumno_{1..3}/parcial{1..3},profesores}
-tree
-apt install tree
-sudo apt install tree
-sudo snap install tree
-tree
-ls -l
-cd ..
-ls -l
-cd vagrant/
-ls -l
-sudo mkdir -p /Examenes-UTN{alumno_{1..3}/parcial{1..3},profesores}
-pwd
-ls ~/Examenes-UTN
-ls /Examenes-UTN
-sudo ls /
-sudo rm -r /Examenes-UTNalumno_1 /Examenes-UTNalumno_2 /Examenes-UTNalumno_3 /Examenes-UTNprofesores
-sudo ls /
-sudo mkdir -p /Examenes-UTN/alumno_{1..3}/parcial{1..3} /Examenes-UTN/profesores
-sudo ls /
-cd /Examenes-UTN/
-tree
-sudo tree
-ls -l
-cd alumno_1
-ls-l
-ls -l
-cd ..
-ls -l
-sudo rm -r Examenes-UTN
-ls -l
-cd home
-ls -l
-cd vagrant
-ls -l
-sudo mkdir -p /Examenes-UTN/alumno_{1..3}/parcial{1..3} /Examenes-UTN/profesores
-cd ..
-ls -l
-sudo rm -r Examenes-UTN
-ls -l
-cd home
-cd vagrant
-ls -l
-sudo mkdir -p /Examenes-UTN/alumno_{1..3}/parcial_{1..3} /Examenes-UTN/profesores
-tree /Examenes-UTN
-sudo tree /Examenes-UTN
-tree
-tree /
-tree /Examenes-UTN/
-sudo tree /Examenes-UTN/
-sudo tree /Examenes-UTN
-cd ..
-ls -l
-cd Examenes-UTN/
-ls -l
-cd profesores/
-ls -l
-cd ..
-cd alumno_1
-ls -l
-cd ..
-ls -l
-cd alumno_2
-ls -l
-cd ..
-ls -l
-cd home 
-cd vagrant
-ls -l
-cd repogit
-ls -l
-cd UTNFRA_SO_1P2C_2024_Galante/
-ls -l
-RTA_SCRIPT_Examen_20241010/
-ls -l
-cd RTA_SCRIPT_Examen_20241010/
-ls -l
-sudo mkdir -p /Examenes-UTN/alumno_{1..3}/parcial_{1..3} /Examenes-UTN/profesores >> Punto_A.sh
-vim Punto_A.sh 
-cat Punto_A.sh 
-nano Punto_A.sh 
-cat Punto_A.sh 
-git add .
-git commit -m "Punto A resuelto"
-git push
-cd ..
-ssh-keygen -t ed25519
-ls -l
-ls -ls
-ls -la
-ls -l .ssh
-cd .ssh
-ls
-cat id_ed25519.pub
-cd ..
-ls -l
-cd vagrant
-ls -l
-cd repogit
-ls -l
-cd UTNFRA_SO_1P2C_2024_Galante/
-ls -l
-cd RTA_SCRIPT_Examen_20241010/
-ls -l
-git push
-cd ..
-ls -l
-cd repogit
-ls -l
-cd UTNFRA_SO_1P2C_2024_Galante/
-ls -l
-git push
-git status
-git log
-git push
-git remote add origin git@github.com:juangalante0/UTNFRA_SO_1P2C_2024_Galante.git
-ls -la
-cd ..
-ls -ls
-ls -la
-cd .ssh
-ls -la
-cd ..
-ls -la
-cd repogit/
-ls -la
-cd UTNFRA_SO_1P2C_2024_Galante/
-ssh -T git@github.com
-git push
-git branch
-git branch -a
-git branch -r
-ssh-add ~/.ssh/id_ed25519
-git remote set-url origin git@github.com:juangalante0/UTNFRA_SO_1P2C_2024_Galante.git
-git push
-cd ..
-sudo fdisk -l
-cat /etc/fstab
-ls -l
-cd repogit 
-ls -l
-cd UTNFRA_SO_1P2C_2024_Galante/
-ls -l
-cd RTA_SCRIPT_Examen_20241010/
-ls -l
-nano Punto_B.sh 
-cat Punto_B.sh
-./Punto_B.sh
-cd ..
-sudo repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
-sudo /repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
-ls /repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/
-ls - l
-ls -l
-sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
-/home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
-ls -l /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/
-sudo chmod +x /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
-sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
-cd repogit
-cd UTNFRA_SO_1P2C_2024_Galante/
-ls -l
-cd RTA_SCRIPT_Examen_20241010/
-nano Punto_B.sh
-cd ..
-sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
-cd repogit
-ls -l
-cd UTNFRA_SO_1P2C_2024_Galante/
-ls -l
-cd RTA_SCRIPT_Examen_20241010/
-nano Punto_B.sh
-cd ..
-sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
-su lsblk
-sudo fdisk -l
-sudo cat /etc/fstab
-ls -l
-cd repogit/
-ls -l
-cd UTNFRA_SO_1P2C_2024_Galante/
-ls -l
-cd RTA_SCRIPT_Examen_20241010/
-nano Punto_B.sh
-cd ..
-sudo fdisk /dev/sdc
-sudo fdisk -l
-sudo nano /etc/fstab
-ls -l
-cd repogit
-cd UTNFRA_SO_1P2C_2024_Galante/
-ls - l
-ls -l
-cd RTA_SCRIPT_Examen_20241010/
-nano Punto_B.sh
-cd ..
-sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
-cd ..
-ls -la
-cd Examenes-UTN/
-ls
-cd ..
-cd home
-cd vagrant
-cd repogit/
-cd UTNFRA_SO_1P2C_2024_Galante/
-ls -l
-cd RTA_SCRIPT_Examen_20241010/
-nano Punto_B.sh
-cd ..
-pwd
-echo "/dev/sdc11 /Examenes-UTN/profesores ext4 defaults 0 0 " | sudo tee -a /etc/fstab
-sudo mount -a
-sudo cat /etc/fstab
-sudo nano /etc/fstab
-sudo mount -a
-sudo lsblk
-cd repogit/
-cd UTNFRA_SO_1P2C_2024_Galante/
-git add .
-git commit -m "Punto B resuelto"
-git push
-git status
-git push
-ping google.com
-hola
-git push
-git status
-ssh -T git@github.com
-ifconfig
-cd ..
-sudo systemctl restart networking
-cd repogit/
-cd UTNFRA_SO_1P2C_2024_Galante/
-cd RTA_SCRIPT_Examen_20241010/
-ls -l
-nano Punto_B.sh 
-cd ..
-vagrant reload
-sudo vagrant reload
-reload
-vagrant halt
-halt
-pwd
-history
-git status
-cd repogit/
-cd UTNFRA_SO_1P2C_2024_Galante/
-ls -l
-git status
-git push
-git status
-git push
-cd ..
-sudo mkdir -p ~/Estructura_Asimetrica/correo/cartas_{1..100} /Estructura_Asimetrica/correo/carteros_{1..10}  /Estructura_Asimetrica/clientes_{1..100}
-ls -l
-tree /Estructura_Asimetrica/
-cd Estructura_Asimetrica/
-tree
-tree ~/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
-ls -l
-cd ..
-sudo rm Estructura_Asimetrica/
-sudo rm -r Estructura_Asimetrica/
-sudo mkdir -p ~/Estructura_Asimetrica/correo/cartas_{1..100} /Estructura_Asimetrica/correo/carteros_{1..10}  /Estructura_Asimetrica/clientes/cartas_{1..100}
-sudo chown -R vagrant:vagrant ~/Estructura_Asimetrica
-tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
-cd Estructura_Asimetrica/
-ls -l
-cd ..
-sudo rm -r Estructura_Asimetrica/
-cd ..
-ls -l
-sudo rm -r Estructura_Asimetrica/
-ls -l
-cd home
-cd vagrant
-mkdir -p ~/Estructura_Asimetrica/correo/{cartas_{1..100},carteros_{1..10}} ~/Estructura_Asimetrica/clientes/cartas_{1..100}
-cd Estructura_Asimetrica/
-ls -l
-tree
-cd ..
-tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
-cd repogit/
-cd UTNFRA_SO_1P2C_2024_Galante/
-cd RTA_SCRIPT_Examen_20241010/
-nano Pundo_D.sh
-git add .
-git commit -m "Punto D resuelto"
-git push
-ls -l
-rm Pundo_D.sh 
-nano Punto_D.sh 
-ls -l
-git add .
-git commit -m "Punto D resuelto"
-git push
-cd ..
-history -a
-history
-whoami
-pwd
-ls -l
-cd repogit/
-cd UTNFRA_SO_1P2C_2024_Galante/
-cd RTA_SCRIPT_Examen_20241010/
-ls -l
-nano Punto_C.sh 
-cd ..
-sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_C.sh
-chmod +x /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_C.sh
-sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_C.sh
-cd ..
-ls -l
-ls -la
-cd vagrant/
-cd ..
-cd p1c2_2024_A1
-sudo cd p1c2_2024_A1
-cd ..
-ls -l
-cd home
-ls -l
-cd vagrant/
-ls -l
-cat /etc/passwd
-cat /etc/group
-cd ..
-ls -l
-cd ..
-ls -l
-cd Examenes-UTN/
-ls -l
-cd alumno_1
-ls -l
-cd alumno_1
-cd alumno_3
-cd profesores/
-ls -l
-cat validar.txt 
-cd ..
-ls -l
-cd home/
-cd vagrant/
-ls -l
-cd repogit/
-cd UTNFRA_SO_1P2C_2024_Galante/
-git add .
-git commit -m "Punto C resuelto"
-git push
-pwd
-grep MemTotal /proc/meminfo
-sudo dmidecode -s chassis
-sudo dmidecode -s chassis-manufacturer
-ls -l
-cd repogit/
-ls -l
-cd UTNFRA_SO_1P2C_2024_Galante/
-ls -l
-cd RTA_ARCHIVOS_Examen_20241010/
-ls -l
-cd ..
-ls -l
-cd RTA_SCRIPT_Examen_20241010/
-nano Punto_E.sh 
-cd ..
-chmod +x Punto_E.sh
-chmod +x ~/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_E.sh
-sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_E.sh
-cd repogit/
-cd UTNFRA_SO_1P2C_2024_Galante/
-cd RTA_SCRIPT_Examen_20241010/
-nano Punto_E.sh 
-cd ..
-sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_E.sh
-cd repogit/
-cd UTNFRA_SO_1P2C_2024_Galante/
-cd RTA_ARCHIVOS_Examen_20241010/
-ls -l
-cat Filtro_Avanzado.txt 
-ls 
-rm Filtro_Avanzado.txt 
-ls 
-ls -l
-cd ..
-ls -l
-cd RTA_SCRIPT_Examen_20241010/
-nano Punto_E.sh 
-cd ..
-sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_E.sh
-cd repogit/
-cd UTNFRA_SO_1P2C_2024_Galante/
-cd RTA_ARCHIVOS_Examen_20241010/
-ls -l
-cat Filtro_Avanzado.txt 
-cd ..
-cd UTNFRA_SO_1P2C_2024_Galante/
-git add .
-git commit -m "Punto E resuelto"
-git push
-ls -l
-cd RTA_ARCHIVOS_Examen_20241010/
-rm Filtro_Avanzado.txt 
-cd ..
-cd RTA_SCRIPT_Examen_20241010/
-nano Punto_E.sh 
-cd ..
-sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_E.sh
-cd repogit/
-cd UTNFRA_SO_1P2C_2024_Galante/
-cd RTA_ARCHIVOS_Examen_20241010/
-cat Filtro_Basico.txt 
-cd ..
-ls -l
-git add .
-git commit -m "Correccion en nombre de archivo de Punto E"
-git push
-cd ..
-curl -s ifconfig.me
-cat curl -s ifconfig.me
-history
-history -a
-$HOME/.bash_history > ~/repogit/UTNFRA_SO_1P2C_2024_Galante/history.txt
-sudo $HOME/.bash_history > ~/repogit/UTNFRA_SO_1P2C_2024_Galante/history.txt
-history > ~/repogit/UTNFRA_SO_1P2C_2024_Galante/history.txt
+    1  lsblk
+    2  pwd
+    3  mkdir repogit
+    4  cd repogit/
+    5  git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+    6  git clone ○ UTNFRA_SO_1P2C_2024_<Tu-Apellido>
+    7  git clone ○ UTNFRA_SO_1P2C_2024_Galante
+    8  git clone UTNFRA_SO_1P2C_2024_Galante
+    9  git clone https://github.com/juangalante0/UTNFRA_SO_1P2C_2024_Galante.git
+   10  ls
+   11  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+   12  ~/.bashrc && history -a
+   13  source ~/.bashrc && history -a
+   14  cd UTNFRA_SO_1P2C_2024_Galante/
+   15  ls
+   16  cd RTA_SCRIPT_Examen_20241010/
+   17  ls
+   18  ls -l
+   19  cd ..
+   20  mkdir -p /Examenes-UTN{alumno_{1..3}/parcial{1..3},profesores}
+   21  sudo mkdir -p /Examenes-UTN{alumno_{1..3}/parcial{1..3},profesores}
+   22  tree
+   23  apt install tree
+   24  sudo apt install tree
+   25  sudo snap install tree
+   26  tree
+   27  ls -l
+   28  cd ..
+   29  ls -l
+   30  cd vagrant/
+   31  ls -l
+   32  sudo mkdir -p /Examenes-UTN{alumno_{1..3}/parcial{1..3},profesores}
+   33  pwd
+   34  ls ~/Examenes-UTN
+   35  ls /Examenes-UTN
+   36  sudo ls /
+   37  sudo rm -r /Examenes-UTNalumno_1 /Examenes-UTNalumno_2 /Examenes-UTNalumno_3 /Examenes-UTNprofesores
+   38  sudo ls /
+   39  sudo mkdir -p /Examenes-UTN/alumno_{1..3}/parcial{1..3} /Examenes-UTN/profesores
+   40  sudo ls /
+   41  cd /Examenes-UTN/
+   42  tree
+   43  sudo tree
+   44  ls -l
+   45  cd alumno_1
+   46  ls-l
+   47  ls -l
+   48  cd ..
+   49  ls -l
+   50  sudo rm -r Examenes-UTN
+   51  ls -l
+   52  cd home
+   53  ls -l
+   54  cd vagrant
+   55  ls -l
+   56  sudo mkdir -p /Examenes-UTN/alumno_{1..3}/parcial{1..3} /Examenes-UTN/profesores
+   57  cd ..
+   58  ls -l
+   59  sudo rm -r Examenes-UTN
+   60  ls -l
+   61  cd home
+   62  cd vagrant
+   63  ls -l
+   64  sudo mkdir -p /Examenes-UTN/alumno_{1..3}/parcial_{1..3} /Examenes-UTN/profesores
+   65  tree /Examenes-UTN
+   66  sudo tree /Examenes-UTN
+   67  tree
+   68  tree /
+   69  tree /Examenes-UTN/
+   70  sudo tree /Examenes-UTN/
+   71  sudo tree /Examenes-UTN
+   72  cd ..
+   73  ls -l
+   74  cd Examenes-UTN/
+   75  ls -l
+   76  cd profesores/
+   77  ls -l
+   78  cd ..
+   79  cd alumno_1
+   80  ls -l
+   81  cd ..
+   82  ls -l
+   83  cd alumno_2
+   84  ls -l
+   85  cd ..
+   86  ls -l
+   87  cd home 
+   88  cd vagrant
+   89  ls -l
+   90  cd repogit
+   91  ls -l
+   92  cd UTNFRA_SO_1P2C_2024_Galante/
+   93  ls -l
+   94  RTA_SCRIPT_Examen_20241010/
+   95  ls -l
+   96  cd RTA_SCRIPT_Examen_20241010/
+   97  ls -l
+   98  sudo mkdir -p /Examenes-UTN/alumno_{1..3}/parcial_{1..3} /Examenes-UTN/profesores >> Punto_A.sh
+   99  vim Punto_A.sh 
+  100  cat Punto_A.sh 
+  101  nano Punto_A.sh 
+  102  cat Punto_A.sh 
+  103  git add .
+  104  git commit -m "Punto A resuelto"
+  105  git push
+  106  cd ..
+  107  ssh-keygen -t ed25519
+  108  ls -l
+  109  ls -ls
+  110  ls -la
+  111  ls -l .ssh
+  112  cd .ssh
+  113  ls
+  114  cat id_ed25519.pub
+  115  cd ..
+  116  ls -l
+  117  cd vagrant
+  118  ls -l
+  119  cd repogit
+  120  ls -l
+  121  cd UTNFRA_SO_1P2C_2024_Galante/
+  122  ls -l
+  123  cd RTA_SCRIPT_Examen_20241010/
+  124  ls -l
+  125  git push
+  126  cd ..
+  127  ls -l
+  128  cd repogit
+  129  ls -l
+  130  cd UTNFRA_SO_1P2C_2024_Galante/
+  131  ls -l
+  132  git push
+  133  git status
+  134  git log
+  135  git push
+  136  git remote add origin git@github.com:juangalante0/UTNFRA_SO_1P2C_2024_Galante.git
+  137  ls -la
+  138  cd ..
+  139  ls -ls
+  140  ls -la
+  141  cd .ssh
+  142  ls -la
+  143  cd ..
+  144  ls -la
+  145  cd repogit/
+  146  ls -la
+  147  cd UTNFRA_SO_1P2C_2024_Galante/
+  148  ssh -T git@github.com
+  149  git push
+  150  git branch
+  151  git branch -a
+  152  git branch -r
+  153  ssh-add ~/.ssh/id_ed25519
+  154  git remote set-url origin git@github.com:juangalante0/UTNFRA_SO_1P2C_2024_Galante.git
+  155  git push
+  156  cd ..
+  157  sudo fdisk -l
+  158  cat /etc/fstab
+  159  ls -l
+  160  cd repogit 
+  161  ls -l
+  162  cd UTNFRA_SO_1P2C_2024_Galante/
+  163  ls -l
+  164  cd RTA_SCRIPT_Examen_20241010/
+  165  ls -l
+  166  nano Punto_B.sh 
+  167  cat Punto_B.sh
+  168  ./Punto_B.sh
+  169  cd ..
+  170  sudo repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
+  171  sudo /repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
+  172  ls /repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/
+  173  ls - l
+  174  ls -l
+  175  sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
+  176  /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
+  177  ls -l /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/
+  178  sudo chmod +x /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
+  179  sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
+  180  cd repogit
+  181  cd UTNFRA_SO_1P2C_2024_Galante/
+  182  ls -l
+  183  cd RTA_SCRIPT_Examen_20241010/
+  184  nano Punto_B.sh
+  185  cd ..
+  186  sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
+  187  cd repogit
+  188  ls -l
+  189  cd UTNFRA_SO_1P2C_2024_Galante/
+  190  ls -l
+  191  cd RTA_SCRIPT_Examen_20241010/
+  192  nano Punto_B.sh
+  193  cd ..
+  194  sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
+  195  su lsblk
+  196  sudo fdisk -l
+  197  sudo cat /etc/fstab
+  198  ls -l
+  199  cd repogit/
+  200  ls -l
+  201  cd UTNFRA_SO_1P2C_2024_Galante/
+  202  ls -l
+  203  cd RTA_SCRIPT_Examen_20241010/
+  204  nano Punto_B.sh
+  205  cd ..
+  206  sudo fdisk /dev/sdc
+  207  sudo fdisk -l
+  208  sudo nano /etc/fstab
+  209  ls -l
+  210  cd repogit
+  211  cd UTNFRA_SO_1P2C_2024_Galante/
+  212  ls - l
+  213  ls -l
+  214  cd RTA_SCRIPT_Examen_20241010/
+  215  nano Punto_B.sh
+  216  cd ..
+  217  sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_B.sh
+  218  cd ..
+  219  ls -la
+  220  cd Examenes-UTN/
+  221  ls
+  222  cd ..
+  223  cd home
+  224  cd vagrant
+  225  cd repogit/
+  226  cd UTNFRA_SO_1P2C_2024_Galante/
+  227  ls -l
+  228  cd RTA_SCRIPT_Examen_20241010/
+  229  nano Punto_B.sh
+  230  cd ..
+  231  pwd
+  232  echo "/dev/sdc11 /Examenes-UTN/profesores ext4 defaults 0 0 " | sudo tee -a /etc/fstab
+  233  sudo mount -a
+  234  sudo cat /etc/fstab
+  235  sudo nano /etc/fstab
+  236  sudo mount -a
+  237  sudo lsblk
+  238  cd repogit/
+  239  cd UTNFRA_SO_1P2C_2024_Galante/
+  240  git add .
+  241  git commit -m "Punto B resuelto"
+  242  git push
+  243  git status
+  244  git push
+  245  ping google.com
+  246  hola
+  247  git push
+  248  git status
+  249  ssh -T git@github.com
+  250  ifconfig
+  251  cd ..
+  252  sudo systemctl restart networking
+  253  cd repogit/
+  254  cd UTNFRA_SO_1P2C_2024_Galante/
+  255  cd RTA_SCRIPT_Examen_20241010/
+  256  ls -l
+  257  nano Punto_B.sh 
+  258  cd ..
+  259  vagrant reload
+  260  sudo vagrant reload
+  261  reload
+  262  vagrant halt
+  263  halt
+  264  pwd
+  265  history
+  266  git status
+  267  cd repogit/
+  268  cd UTNFRA_SO_1P2C_2024_Galante/
+  269  ls -l
+  270  git status
+  271  git push
+  272  git status
+  273  git push
+  274  cd ..
+  275  sudo mkdir -p ~/Estructura_Asimetrica/correo/cartas_{1..100} /Estructura_Asimetrica/correo/carteros_{1..10}  /Estructura_Asimetrica/clientes_{1..100}
+  276  ls -l
+  277  tree /Estructura_Asimetrica/
+  278  cd Estructura_Asimetrica/
+  279  tree
+  280  tree ~/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+  281  ls -l
+  282  cd ..
+  283  sudo rm Estructura_Asimetrica/
+  284  sudo rm -r Estructura_Asimetrica/
+  285  sudo mkdir -p ~/Estructura_Asimetrica/correo/cartas_{1..100} /Estructura_Asimetrica/correo/carteros_{1..10}  /Estructura_Asimetrica/clientes/cartas_{1..100}
+  286  sudo chown -R vagrant:vagrant ~/Estructura_Asimetrica
+  287  tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+  288  cd Estructura_Asimetrica/
+  289  ls -l
+  290  cd ..
+  291  sudo rm -r Estructura_Asimetrica/
+  292  cd ..
+  293  ls -l
+  294  sudo rm -r Estructura_Asimetrica/
+  295  ls -l
+  296  cd home
+  297  cd vagrant
+  298  mkdir -p ~/Estructura_Asimetrica/correo/{cartas_{1..100},carteros_{1..10}} ~/Estructura_Asimetrica/clientes/cartas_{1..100}
+  299  cd Estructura_Asimetrica/
+  300  ls -l
+  301  tree
+  302  cd ..
+  303  tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+  304  cd repogit/
+  305  cd UTNFRA_SO_1P2C_2024_Galante/
+  306  cd RTA_SCRIPT_Examen_20241010/
+  307  nano Pundo_D.sh
+  308  git add .
+  309  git commit -m "Punto D resuelto"
+  310  git push
+  311  ls -l
+  312  rm Pundo_D.sh 
+  313  nano Punto_D.sh 
+  314  ls -l
+  315  git add .
+  316  git commit -m "Punto D resuelto"
+  317  git push
+  318  cd ..
+  319  history -a
+  320  history
+  321  whoami
+  322  pwd
+  323  ls -l
+  324  cd repogit/
+  325  cd UTNFRA_SO_1P2C_2024_Galante/
+  326  cd RTA_SCRIPT_Examen_20241010/
+  327  ls -l
+  328  nano Punto_C.sh 
+  329  cd ..
+  330  sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_C.sh
+  331  chmod +x /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_C.sh
+  332  sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_C.sh
+  333  cd ..
+  334  ls -l
+  335  ls -la
+  336  cd vagrant/
+  337  cd ..
+  338  cd p1c2_2024_A1
+  339  sudo cd p1c2_2024_A1
+  340  cd ..
+  341  ls -l
+  342  cd home
+  343  ls -l
+  344  cd vagrant/
+  345  ls -l
+  346  cat /etc/passwd
+  347  cat /etc/group
+  348  cd ..
+  349  ls -l
+  350  cd ..
+  351  ls -l
+  352  cd Examenes-UTN/
+  353  ls -l
+  354  cd alumno_1
+  355  ls -l
+  356  cd alumno_1
+  357  cd alumno_3
+  358  cd profesores/
+  359  ls -l
+  360  cat validar.txt 
+  361  cd ..
+  362  ls -l
+  363  cd home/
+  364  cd vagrant/
+  365  ls -l
+  366  cd repogit/
+  367  cd UTNFRA_SO_1P2C_2024_Galante/
+  368  git add .
+  369  git commit -m "Punto C resuelto"
+  370  git push
+  371  pwd
+  372  grep MemTotal /proc/meminfo
+  373  sudo dmidecode -s chassis
+  374  sudo dmidecode -s chassis-manufacturer
+  375  ls -l
+  376  cd repogit/
+  377  ls -l
+  378  cd UTNFRA_SO_1P2C_2024_Galante/
+  379  ls -l
+  380  cd RTA_ARCHIVOS_Examen_20241010/
+  381  ls -l
+  382  cd ..
+  383  ls -l
+  384  cd RTA_SCRIPT_Examen_20241010/
+  385  nano Punto_E.sh 
+  386  cd ..
+  387  chmod +x Punto_E.sh
+  388  chmod +x ~/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_E.sh
+  389  sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_E.sh
+  390  cd repogit/
+  391  cd UTNFRA_SO_1P2C_2024_Galante/
+  392  cd RTA_SCRIPT_Examen_20241010/
+  393  nano Punto_E.sh 
+  394  cd ..
+  395  sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_E.sh
+  396  cd repogit/
+  397  cd UTNFRA_SO_1P2C_2024_Galante/
+  398  cd RTA_ARCHIVOS_Examen_20241010/
+  399  ls -l
+  400  cat Filtro_Avanzado.txt 
+  401  ls 
+  402  rm Filtro_Avanzado.txt 
+  403  ls 
+  404  ls -l
+  405  cd ..
+  406  ls -l
+  407  cd RTA_SCRIPT_Examen_20241010/
+  408  nano Punto_E.sh 
+  409  cd ..
+  410  sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_E.sh
+  411  cd repogit/
+  412  cd UTNFRA_SO_1P2C_2024_Galante/
+  413  cd RTA_ARCHIVOS_Examen_20241010/
+  414  ls -l
+  415  cat Filtro_Avanzado.txt 
+  416  cd ..
+  417  cd UTNFRA_SO_1P2C_2024_Galante/
+  418  git add .
+  419  git commit -m "Punto E resuelto"
+  420  git push
+  421  ls -l
+  422  cd RTA_ARCHIVOS_Examen_20241010/
+  423  rm Filtro_Avanzado.txt 
+  424  cd ..
+  425  cd RTA_SCRIPT_Examen_20241010/
+  426  nano Punto_E.sh 
+  427  cd ..
+  428  sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_E.sh
+  429  cd repogit/
+  430  cd UTNFRA_SO_1P2C_2024_Galante/
+  431  cd RTA_ARCHIVOS_Examen_20241010/
+  432  cat Filtro_Basico.txt 
+  433  cd ..
+  434  ls -l
+  435  git add .
+  436  git commit -m "Correccion en nombre de archivo de Punto E"
+  437  git push
+  438  cd ..
+  439  curl -s ifconfig.me
+  440  cat curl -s ifconfig.me
+  441  history
+  442  history -a
+  443  $HOME/.bash_history > ~/repogit/UTNFRA_SO_1P2C_2024_Galante/history.txt
+  444  sudo $HOME/.bash_history > ~/repogit/UTNFRA_SO_1P2C_2024_Galante/history.txt
+  445  history > ~/repogit/UTNFRA_SO_1P2C_2024_Galante/history.txt
+  446  sudo cat ~/.bash_history > ~/repogit/UTNFRA_SO_1P2C_2024_Galante/history.txt
+  447  cd repogit/
+  448  cd UTNFRA_SO_1P2C_2024_Galante/
+  449  ls -l
+  450  cat history.txt 
+  451  git add .
+  452  git commit -m "Subo historial hasta el momento"
+  453  git push
+  454  cd ..
+  455  vagrant halt
+  456  sudo vagrant halt
+  457  ls -l
+  458  history > ~/foo/history.txt
+  459  cd foo
+  460  ls -l
+  461  cd ..
+  462  apt install vagrant
+  463  sudo su - p1c2_2024_A1
+  464  sudo shutdown now
+  465  sudo su - p1c2_2024_A1
+  466  history
+  467  ls 'l
+  468  ls -l
+  469  '
+  470  cd repogit/
+  471  cd UTNFRA_SO_1P2C_2024_Galante/
+  472  git status
+  473  git push
+  474  cd ..
+  475  curl -s ifconfig.me
+  476  ls -l
+  477  git remote get-url origin
+  478  cd repogit/
+  479  cd UTNFRA_SO_1P2C_2024_Galante/
+  480  git remote get-url origin
+  481  sudo grep vagrant /etc/shadow | awk -F ':' '{print$2}'
+  482  ls -l
+  483  cd RTA_SCRIPT_Examen_20241010/
+  484  nano Punto_F.sh 
+  485  cd ..
+  486  cd UTNFRA_SO_1P2C_2024_Galante/
+  487  chmod +x Punto_F.sh
+  488  chmod +x ~/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_F.sh
+  489  sudo /home/vagrant/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_F.sh
+  490  sudo ~/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_F.sh
+  491  ls -l
+  492  cd RTA_SCRIPT_Examen_20241010/
+  493  nano Punto_F.sh 
+  494  cd ..
+  495  sudo ~/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_F.sh
+  496  cd RTA_ARCHIVOS_Examen_20241010/
+  497  ls -l
+  498  cat Filtro_Avanzado.txt 
+  499  whoami
+  500  cd ..
+  501  ls -l
+  502  cd RTA_SCRIPT_Examen_20241010/
+  503  nano Punto_F.sh 
+  504  cd ..
+  505  cd RTA_ARCHIVOS_Examen_20241010/
+  506  ls -l
+  507  rm Filtro_Avanzado.txt 
+  508  ls 
+  509  cd ..
+  510  ~/repogit/UTNFRA_SO_1P2C_2024_Galante/RTA_SCRIPT_Examen_20241010/Punto_F.sh
+  511  cd RTA_ARCHIVOS_Examen_20241010/
+  512  cat Filtro_Avanzado.txt 
+  513  cd ..
+  514  git add .
+  515  git commit -m "Punto F resuelto"
+  516  git push
+  517  ls -l
+  518  touch README.md
+  519  ls -l
+  520  nano README.md
+  521  git add .
+  522  git commit -m "Agrego README"
+  523  git push
+  524  nano README.md
+  525  git add .
+  526  git commit -m "Modifico README"
+  527  git push
+  528  ls -l
+  529  history
+  530  history > history.txt 
