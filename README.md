@@ -2,7 +2,10 @@
 
 
 Nombre: Juan Ignacio
+
 Apellido: Galante
+
 Legajo: 115419
+
 División: 113
 
