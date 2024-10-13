@@ -1,0 +1,4 @@
+Mi IP publica es: 186.22.54.162
+Mi usuario es: vagrant
+El hash de mi usuario es: $y$j9T$iUD8gRclRkZitzZ8ATSNp1$lCrPLGzGyRND6h4i9X/1mXWmAAL/s6Di7Su5iKbLwJ2
+La url de mi repositorio es: git@github.com:juangalante0/UTNFRA_SO_1P2C_2024_Galante.git
